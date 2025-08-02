@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.js": "/static/js/main.592f89aa.chunk.js",
+    "main.js.map": "/static/js/main.592f89aa.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.ba401ee8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.ba401ee8.js.map",
+    "static/js/2.3563fff9.chunk.js": "/static/js/2.3563fff9.chunk.js",
+    "static/js/2.3563fff9.chunk.js.map": "/static/js/2.3563fff9.chunk.js.map",
+    "static/js/3.468c9027.chunk.js": "/static/js/3.468c9027.chunk.js",
+    "static/js/3.468c9027.chunk.js.map": "/static/js/3.468c9027.chunk.js.map",
+    "index.html": "/index.html",
+    "service-worker.js": "/service-worker.js",
+    "service-worker.js.map": "/service-worker.js.map",
+    "static/js/2.3563fff9.chunk.js.LICENSE.txt": "/static/js/2.3563fff9.chunk.js.LICENSE.txt",
+    "static/media/accanthis-stdNo2-bold-italic.200c5266.otf": "/static/media/accanthis-stdNo2-bold-italic.200c5266.otf",
+    "static/media/accanthis-stdNo2-bold.5b1a491e.otf": "/static/media/accanthis-stdNo2-bold.5b1a491e.otf",
+    "static/media/accanthis-stdNo2-italic.b60536c9.otf": "/static/media/accanthis-stdNo2-italic.b60536c9.otf",
+    "static/media/accanthis-stdNo2-regular.4ed95edf.otf": "/static/media/accanthis-stdNo2-regular.4ed95edf.otf",
+    "static/media/fira-sans-v11-latin-600.619f57d8.woff": "/static/media/fira-sans-v11-latin-600.619f57d8.woff",
+    "static/media/fira-sans-v11-latin-600.8b914a58.woff2": "/static/media/fira-sans-v11-latin-600.8b914a58.woff2",
+    "static/media/fira-sans-v11-latin-700.354e3a3d.woff": "/static/media/fira-sans-v11-latin-700.354e3a3d.woff",
+    "static/media/fira-sans-v11-latin-700.d2a49c05.woff2": "/static/media/fira-sans-v11-latin-700.d2a49c05.woff2",
+    "static/media/fira-sans-v11-latin-italic.4a7cd187.woff2": "/static/media/fira-sans-v11-latin-italic.4a7cd187.woff2",
+    "static/media/fira-sans-v11-latin-italic.61eb15f5.woff": "/static/media/fira-sans-v11-latin-italic.61eb15f5.woff",
+    "static/media/fira-sans-v11-latin-regular.a25f36fb.woff": "/static/media/fira-sans-v11-latin-regular.a25f36fb.woff",
+    "static/media/fira-sans-v11-latin-regular.f34933fb.woff2": "/static/media/fira-sans-v11-latin-regular.f34933fb.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba401ee8.js",
+    "static/js/2.3563fff9.chunk.js",
+    "static/js/main.592f89aa.chunk.js"
+  ]
+}
